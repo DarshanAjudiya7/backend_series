@@ -1,0 +1,23 @@
+{
+  "name": "darshbackend",
+  "version": "1.0.0",
+  "description": "a basic app for production deployement",
+  "keywords": [
+    "node",
+    "darshan",
+    "ajudiya"
+  ],
+  "license": "ISC",
+  "author": "darshan ajudiya",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
