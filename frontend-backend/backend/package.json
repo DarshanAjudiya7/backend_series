@@ -1,0 +1,24 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarshanAjudiya7/backend_series.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarshanAjudiya7/backend_series/issues"
+  },
+  "homepage": "https://github.com/DarshanAjudiya7/backend_series#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
